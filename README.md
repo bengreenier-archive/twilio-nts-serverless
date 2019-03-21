@@ -1,5 +1,7 @@
 # twilio-nts (serverless)
 
+[![Build Status](https://travis-ci.org/bengreenier/twilio-nts-serverless.svg?branch=master)](https://travis-ci.org/bengreenier/twilio-nts-serverless)
+
 A super-light frontend for the [Twilio NTS](https://www.twilio.com/docs/stun-turn) service.
 
 ## Why
